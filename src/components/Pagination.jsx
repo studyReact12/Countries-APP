@@ -1,9 +1,14 @@
-import React from 'react'
+import React from 'react';
+// import Pagination from '../styled-components/Pagination';
+// import Stack from '../styled-components/Stack';
 
-const Pagination = () => {
+ function pagination() {
   return (
-    <div>Pagination</div>
-  )
+    <div>
+    
+
+    </div>
+  );
 }
 
-export default Pagination
+export default  pagination
